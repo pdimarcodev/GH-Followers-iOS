@@ -2,8 +2,8 @@
 
 ## iOS App written in Swift
 
-By using [Github API](https://docs.github.com/en/search-github/searching-on-github/searching-users) you can search for users and their followers,\
-manage your favorites and take a look to the profiles.
+You can search for Github users, get a list of followers,\
+manage your favorites and take a look at the profiles.
 <br/>
 
 ## Technical details
@@ -15,6 +15,7 @@ manage your favorites and take a look to the profiles.
 - Network Manager
 - Persistence with UserDefaults
 - Light/Dark mode compatible
+- [Github API](https://docs.github.com/en/search-github/searching-on-github/searching-users)
 
 <br/>
 
